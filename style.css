@@ -17,7 +17,7 @@ body {
 }
 .outer_container {
   width: 75%;
-  margin: 30% auto 0 auto;
+  margin: 5% auto 0 auto;
 }
 .inner_container {
   background: rgba(255, 255, 255, .8);
